@@ -1,9 +1,9 @@
 {
     "name": "smallpdf.com",
-    "prehideSelectors": [".rplgd-0 iIYnHi"],
-    "detectCmp": [{ "exists": ".rplgd-0 iIYnHi"}],
-    "detectPopup": [{ "visible": ".rplgd-0 iIYnHi" }],
-    "optIn": [{ "click": ".sc-11drgl3-0 sc-1az4ycp-0 cVkIfg.r5zwp6-2 ghYfBB.r5zwp6-3 jHcIvq" }],
-    "optOut": [{ "click": ".sc-11drgl3-0 sc-1az4ycp-0 gcjHAa.r5zwp6-2 knFuYS.r5zwp6-3 jHcIvq"}]
+    "prehideSelectors": [".sc-1bhf2s-1 eyjcYN"],
+    "detectCmp": [{ "exists": ".sc-1bhf2s-1 eyjcY"}],
+    "detectPopup": [{ "visible": ".sc-1bhf2s-1 eyjcY" }],
+    "optIn": [{ "click": ".rplgd-0 iIYnHi.sc-11drgl3-0 sc-1az4ycp-0 cVkIfg.r5zwp6-2 ghYfBB.r5zwp6-3 jHcIvq" }],
+    "optOut": [{ "click": ".rplgd-0 iIYnHi.sc-11drgl3-0 sc-1az4ycp-0 gcjHAa.r5zwp6-2 knFuYS.r5zwp6-3 jHcIvq"}]
   }
   
